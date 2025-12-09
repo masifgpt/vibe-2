@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Vibe-2</div>
+    <div>This is about page</div>
   )
 }
 
