@@ -15,17 +15,17 @@ export default function Navbar() {
         {/* Links */}
         <ul className="flex gap-8 text-gray-300 font-medium">
           <li>
-            <Link href="#home" className="hover:text-white transition">
+            <Link href="/" className="hover:text-white transition">
               Home
             </Link>
           </li>
           <li>
-            <Link href="#about" className="hover:text-white transition">
+            <Link href="/about" className="hover:text-white transition">
               About
             </Link>
           </li>
           <li>
-            <Link href="#contact" className="hover:text-white transition">
+            <Link href="/contact-us" className="hover:text-white transition">
               Contact
             </Link>
           </li>
